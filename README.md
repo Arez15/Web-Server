@@ -10,4 +10,4 @@ Php
 # Perkembanga Web server
 1. 17 oktober 2023 installasi ubuntu
 # Install Ubuntu
-di sini saya menggunakan ubuntu versi 22.04 dan virtual box versi 7.10
+1.di sini saya menggunakan ubuntu versi 22.04 dan virtual box versi 7.10
