@@ -14,10 +14,15 @@ winscp
 1. 17 oktober 2023 installasi ubuntu
 2. 7 desember 2023 install apache2
 3. 10 desember 2023 memasukan index.html ke ubuntu server
+   
 # Install Ubuntu
-1.di sini saya menggunakan ubuntu versi 22.04 dan virtual box versi 7.10
+1.di sini saya menggunakan ubuntu versi 22.04
+
 # Install apache2
 1. sudo apt install apache2
+
+![Uploading Cuplikan layar 2023-12-13 073937.png…]()
+
 2. service apache2 status
 3. kemudian cek dengan mengetikan ip address di browser
 4. ls /var/www/html/
