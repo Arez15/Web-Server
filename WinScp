@@ -1,0 +1,16 @@
+# WInScp
+Winscp adalah aplikasi yg berfungsi untuk transfer file atau copy file antara windows dengan linux. Kegunaan dari WinSCP ini adalah sebagai alat untuk transfer, atau lebih familiar kita kenal dengan sebutan upload dan download file melalui protokol ftp dan secure shell (SSH), Dengan WinSCP kita juga dapat melakukan editorial seperti mengedit isi file, merubah nama file menghapus file dan lain sebagainya.
+
+# Cara Kerja
+alamat / host name linux. : semisal pakai IP, ketik IP Adressnya . ex : 192.168.1.
+port default : 22
+isi user name clien linux & Paswordnya.
+kosongkan aja private key file jika tidak diperlukan.
+protocol biarkan seperti adanya.
+save ,Oke lalu masuk stored session – pilih cliennya dan LOGIN.
+Untuk Memindahkan file terbilang mudah karena menggunakan sistem drag and drop.
+
+# Kelebihan
+1. Terdapat fitur drag and drop Yang memudahkan User
+2. Free
+3. Bisa memindahkan file dari windows ke linux
