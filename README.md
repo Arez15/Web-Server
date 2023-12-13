@@ -1,6 +1,6 @@
-# Web-Server
+# WEB-SERVER
 Web server adalah sebuah software (perangkat lunak) yang memberikan layanan berupa data. Berfungsi untuk menerima permintaan HTTP atau HTTPS dari klien atau kita kenal dengan web browser (Chrome, Firefox). Selanjutnya ia akan mengirimkan respon atas permintaan tersebut kepada client dalam bentuk halaman web.
-# Tools dan service yang di gunakan
+# TOOLS DAN SERVICE YANG DI GUNAKAN 
 Ubuntu versi 22.04  
 
 virtual box versi 7.10
@@ -9,15 +9,12 @@ Apache2
 
 winscp  
 
-# Perkembanga Web server
+# PERKEMBANGAN WEB SERVER
 1. 17 oktober 2023 installasi ubuntu
 2. 7 desember 2023 install apache2
 3. 10 desember 2023 memasukan index.html ke ubuntu server
    
-# Install Ubuntu
-1.di sini saya menggunakan ubuntu versi 22.04
-
-# Install apache2
+# INSTALL APACHE2
 1. sudo apt install apache2
 2. service apache2 status
 3. kemudian cek dengan mengetikan ip address di browser
