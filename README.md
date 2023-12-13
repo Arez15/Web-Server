@@ -21,7 +21,7 @@ winscp
 4. ls /var/www/html/
 5. cd /var/www/html/index.html(untuk mengecek index.html bawaan ubuntu)
 6. kemudian untuk memindahkan indek.html yang kita buat sendiri maka memerlukan app winscp
-7. saat berada di dalam app winscp kita login menggunakan, hostname:ip server, user name: nama server, kemudian klik login dan masukan password server.
+7. saat berada di dalam app winscp kita login menggunakan, hostname:ip server, user name: nama server, kemudian klik login dan masukan passwd server.
 8. copy file html kita ke folder arez(serverkita) dengan sistem darg and drop
 9. kembali ke server di cmd
 10. ketik ls untuk cek apakah file html kita sudah di pindah
