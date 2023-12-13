@@ -1,0 +1,15 @@
+# Apache
+Apache adalah sebuah perangkat lunak web server yang menghubungkan antara server dengan user (browser). Jika Anda mengakses sebuah website melalui URL di browser kemudian muncul tampilan website, bisa jadi itu merupakan hasil kerja dari Apache.
+
+# Cara Kerja Apache
+ Dasar dari peran web server adalah untuk menerima request dari user (contohnya ‘web browser’) dan mengirimkan respon dari request yang diterima (komponen dari halaman website yang diakses oleh user).
+ Apache Web Server mempunyai beberapa modul yang dapat menambah fungsionalitasnya, seperti MPM yang menangani berbagai macam mode multi-processing. Atau, mod_ssl yang dapat memungkinkan dukungan koneksi SSL dan TLS.
+ Beberapa fitur lain yang ditawarkan oleh Apache, seperti .htaccess, SSL, HTTP/2, Lua, PHP, Perl, IPv6, FTP, Bandwidth throttling, WebDAV, Load balancing, dan lain sebagainya.
+
+# Kelebihan
+Lintas platform.
+Komunitas yang besar dan dokumentasi yang lengkap.
+Lisensinya gratis (open source).
+Mempunyai perangkat lunak yang stabil dan andal.
+Patch keamanan yang terus diperbarui.
+Konfigurasi mudah.
