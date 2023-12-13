@@ -7,9 +7,8 @@ virtual box versi 7.10
 
 Apache2
 
-mysql
-
 winscp  
+
 # Perkembanga Web server
 1. 17 oktober 2023 installasi ubuntu
 2. 7 desember 2023 install apache2
