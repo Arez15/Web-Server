@@ -1,13 +1,13 @@
 # WEB-SERVER
 Web server adalah sebuah software (perangkat lunak) yang memberikan layanan berupa data. Berfungsi untuk menerima permintaan HTTP atau HTTPS dari klien atau kita kenal dengan web browser (Chrome, Firefox). Selanjutnya ia akan mengirimkan respon atas permintaan tersebut kepada client dalam bentuk halaman web.
 # TOOLS DAN SERVICE YANG DI GUNAKAN 
-Ubuntu versi 22.04  
+Ubuntu versi 22.04  : https://ubuntu.com/download/server
 
-virtual box versi 7.10
+virtual box versi 7.10 : https://www.virtualbox.org/wiki/Downloads
 
 Apache2
 
-winscp  
+winscp  : https://winscp.net/eng/download.php
 
 # PERKEMBANGAN WEB SERVER
 1. 17 oktober 2023 installasi ubuntu
